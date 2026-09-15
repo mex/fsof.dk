@@ -1,5 +1,5 @@
 ---
 layout: news
 title: Seneste artikel
-subtitle: Flåden skibe og fartøjer
+subtitle: Flådens skibe og fartøjer
 ---
