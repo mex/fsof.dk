@@ -1,23 +1,23 @@
 ---
-layout: page
+layout: post
 title: Flådens skibe og fartøjer
-subtitle: Indledning
+subtitle: Enhederne
 ---
                                                           VÆRKSTEDSSKIB
 
 **HENRIK GERNER**  
 
 
-Navn				    Pt-nr	IKS 	Søsat		Indgå/Komm	    Udgået  
-**HENRIK GERNER**		-	    OVKA	04.11.1927	I 20.02.1928	29.08.1943  
+Navn.                   Pt-nr.  IKS     Søsat       Indgå/Komm      Udgået  
+**HENRIK GERNER**.      -       OVKA    04.11.1927  I 20.02.1928.   29.08.1943  
 
-Depl:	448 t.	fu. 493 t.  	
+Depl:	448 t.	fu. 493 t.  
 	409 brt.	172 nrt.  
 Dim  :	L. oa. 49 m.  pp 47 m.	B.  8,2 m.	Dbg. fu. 2,4 m   
 Mask:	2 – DM.	 B&W  6-cyl		2 skruer				900 hk.  
 Fart:	13,2 kn.  
-Radi:  
-Bes :	38  
+Radius:  
+Besætning:	38  
 Armering.  
 kanoner.  
                         2 – 75 PK L/55 M/26 (2 x 1)  
