@@ -5,7 +5,9 @@ subtitle: Indledning
 ---
                                                           VÆRKSTEDSSKIB
 
-**HENRIK GERNER**
+**HENRIK GERNER**  
+
+
 Navn				    Pt-nr	IKS 	Søsat		Indgå/Komm	    Udgået  
 **HENRIK GERNER**		-	    OVKA	04.11.1927	I 20.02.1928	29.08.1943  
 
