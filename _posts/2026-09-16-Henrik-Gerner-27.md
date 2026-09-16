@@ -16,7 +16,7 @@ Mask:	2 – DM.	 B&W  6-cyl		2 skruer				900 hk.
 Fart:	13,2 kn.  
 Radi:  
 Bes :	38  
-Armering.  	
+Armering.  
 kanoner.  
                         2 – 75 PK L/55 M/26 (2 x 1)  
                         2 – 20 mm RK L/60 M/40 (2 x 1)	(fra 1940-41)  
