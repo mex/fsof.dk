@@ -3,7 +3,7 @@ layout: page
 title: Flådens skibe og fartøjer
 subtitle: Indledning
 ---
-                                                          **VÆRKSTEDSSKIB**
+                                                          VÆRKSTEDSSKIB
 
 **HENRIK GERNER**
 Navn				    Pt-nr	IKS 	Søsat		Indgå/Komm	    Udgået  
@@ -14,7 +14,8 @@ Depl:	448 t.	fu. 493 t.
 Dim  :	L. oa. 49 m.  pp 47 m.	B.  8,2 m.	Dbg. fu. 2,4 m   
 Mask:	2 – DM.	 B&W  6-cyl		2 skruer				900 hk.  
 Fart:	13,2 kn.  
-Radi:  	
+Radi:  
+
 Bes :	38  
 Arm .	kanoner.		2 – 75 PK L/55 M/26 (2 x 1)  
                         2 – 20 mm RK L/60 M/40 (2 x 1)	(fra 1940-41)  
