@@ -8,13 +8,23 @@ subtitle: Enhederne
 **HENRIK GERNER**  
 
 
-Navn.                   Pt-nr.  IKS     Søsat       Indgå/Komm      Udgået  
-**HENRIK GERNER**.      -       OVKA    04.11.1927  I 20.02.1928.   29.08.1943  
+Navn.                       
+**HENRIK GERNER**.   
+Pt-nr.  - 
+IKS:  
+OVKA  
+Søsat:  
+04.11.1927  
+Indgå/Komm:  
+I 20.02.1928.  
+Udgået:  
+29.08.1943  
+
 
 Deplacement:	448 t.	fu. 493 t.  
 	            409 brt.	172 nrt.  
-Dimmensioner:	L. oa. 49 m.  pp 47 m.	B.  8,2 m.	Dbg. fu. 2,4 m   
-Maskine:	2 – DM.	 B&W  6-cyl		2 skruer				900 hk.  
+Dimensioner:	L. oa. 49 m.  pp 47 m.	B.  8,2 m.	Dbg. fu. 2,4 m   
+Maskineri:	2 – DM.	 B&W  6-cyl		2 skruer				900 hk.  
 Fart:	13,2 kn.  
 Radius:  
 Besætning:	38  
