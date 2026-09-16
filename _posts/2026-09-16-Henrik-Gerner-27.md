@@ -15,12 +15,14 @@ Dim  :	L. oa. 49 m.  pp 47 m.	B.  8,2 m.	Dbg. fu. 2,4 m
 Mask:	2 – DM.	 B&W  6-cyl		2 skruer				900 hk.  
 Fart:	13,2 kn.  
 Radi:  
-
 Bes :	38  
-Arm .	kanoner.		2 – 75 PK L/55 M/26 (2 x 1)  
+Armering.  	
+kanoner.  
+                        2 – 75 PK L/55 M/26 (2 x 1)  
                         2 – 20 mm RK L/60 M/40 (2 x 1)	(fra 1940-41)  
  			            2 – 8 mm RG L/75 M/39 	(pr. apr1940)  
-	miner		       80 stk. på mineskinner på sidedækket (som minelægger)  
+miner  		       
+	                   80 stk. på mineskinner på sidedækket (som minelægger)  
 
 Værkstedsskib for undervandsbåde, samt i perioder skoleskib for dykkere.  Udrustet med samme type B&W dieseler til fremdrivning, som i ubådene af C- og D-klasserne, og disse kunne frakobles skruerne og tilkobles generatorer, som kunne oplade hver sin ubåd.  
 
