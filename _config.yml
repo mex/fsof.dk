@@ -21,7 +21,7 @@ author: Svenn Storgaard
 
 navbar-links:
   Forside: "/"
-  Seneste nyt: "/seneste-nyt/"
+  Seneste artikel: "/seneste-artikel/"
   Vedtægter:
     - Gældende vedtægter: "/gaeldende-vedtaegter/"
   Bestyrelsen:
