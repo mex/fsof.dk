@@ -10,7 +10,8 @@ subtitle: Enhederne
 
 Navn.                       
 **HENRIK GERNER**.   
-Pt-nr.  - 
+Pt-nr.  
+-  
 IKS:  
 OVKA  
 Søsat:  
