@@ -17,3 +17,16 @@ Navn:  Navngivet efter Fabrikmester ved Orlogsværftet Henrik Gerner (1741-1787)
 *IKS:	GRDW (til 31dec1933).  OVKA (fra 01jan1934).  
 *Police / Pölitz er hhv. det polske og tyske for samme by.
 
+
+<img width="397" height="257" alt="Skærmbillede 2015-06-17 kl  12 46 51" src="https://github.com/user-attachments/assets/9246b920-6b06-4582-b4de-3c7fc31d22ee" />
+Henrik Gerner (foto: Marinens Bibliotek)
+
+
+<img width="402" height="276" alt="Skærmbillede 2015-06-17 kl  12 40 44" src="https://github.com/user-attachments/assets/8d7f341f-3c25-4e5d-b533-153103b7aff1" />
+Henrik Gerner (foto: Marinens Bibliotek)
+
+
+<img width="1500" height="628" alt="MAB-00520" src="https://github.com/user-attachments/assets/a784bb12-5d1d-4e13-b2db-0c3c3b2ea5b9" />
+Henrik Gerner (foto: Marinens Bibliotek)
+
+
