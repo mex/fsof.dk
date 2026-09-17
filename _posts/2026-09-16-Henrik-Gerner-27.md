@@ -4,6 +4,7 @@ title: Flådens skibe og fartøjer
 subtitle: Enhederne
 ---
 
+<img width="1051" height="608" alt="FSOF HNGR 220710_000001 kopi" src="https://github.com/user-attachments/assets/a2c0c2b7-b1d0-42e5-af5d-3c6f304e2491" />
 
 Værkstedsskib for undervandsbåde, samt i perioder skoleskib for dykkere.  Udrustet med samme type B&W dieseler til fremdrivning, som i ubådene af C- og D-klasserne, og disse kunne frakobles skruerne og tilkobles generatorer, som kunne oplade hver sin ubåd.  
 
