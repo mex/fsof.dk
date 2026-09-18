@@ -22,6 +22,8 @@ author: Svenn Storgaard
 navbar-links:
   Forside: "/"
   Seneste artikel: "/Seneste-artikel/"
+  Forkortelser-forklaringer
+    - Forkortelser/forklaringer: "/Forkortelser-forklaringer/"
   Vedtægter:
     - Gældende vedtægter: "/gaeldende-vedtaegter/"
   Bestyrelsen:
