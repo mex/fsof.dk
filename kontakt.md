@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kontakt
-subtitle: Flådens Skibe og fartøjer
+subtitle: Flådens Skibe og Fartøjer
 ---
 
 ## Kontakt
