@@ -21,9 +21,9 @@ author: Svenn Storgaard
 
 navbar-links:
   Forside: "/"
-   - Forkortelser forklaringer: "/Forkortelser-forklaringer/"
   Seneste artikel: "/Seneste-artikel/"
-  Kontakt: "/kontakt/"
+  Forkortelser forklaringer: "/Forkortelser-forklaringer/"
+Kontakt: "/kontakt/"
   Arkiv: 
    - Arkiv 2026: "/arkiv-2026/"
    - Arkiv 2025: "/arkiv-2025/"
