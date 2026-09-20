@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: page
 title: Rettelser og tilføjelser
 subtitle: Flådens skibe og fartøjer
 ---
