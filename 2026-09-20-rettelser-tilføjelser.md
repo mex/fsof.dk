@@ -46,7 +46,7 @@ Side 102; U 3. Admiralty Job No. J3234, Bestilt 21.05.42 under "1942 Programme",
 Side 103: DELFINEN. De første ringe placeredes på beddingen 10.06.54. SPRINGEREN. "Offshore Purchase for the Danish Navy under the FY60 Programme". SPRINGEREN deltog også i STANAVFORLANT oktober-december 1973 samt oktober-november 1980.  
 Side 115: FALSTER. Døbt af Mrs. William W. Keller.  
 Side 118: MINEBAAD NR. 4. Afleveret til Marineministeriet 02.07.1864.  
-Side 119: MINEBAAD NR. 5 afleveret til Marineministeriet 06.08.1864. MINEBAAD NR. 6 afle¬veret til Marineministeriet 29.08.1864. MINEBAAD NR. 7 afleveret til Marineministeriet 29.09.1864. MINEDEPOTBAAD NR. 2. har samme data som MINEBAAD NR. 1-4 på side 118.  
+Side 119: MINEBAAD NR. 5 afleveret til Marineministeriet 06.08.1864. MINEBAAD NR. 6 afleveret til Marineministeriet 29.08.1864. MINEBAAD NR. 7 afleveret til Marineministeriet 29.09.1864. MINEDEPOTBAAD NR. 2. har samme data som MINEBAAD NR. 1-4 på side 118.  
 Side 120: Billedteksten. Antennen er ikke en radar, men en ESM antenne af typen FuMB Ant. 4, Sumatra.  
 Side 125: MS 3 og MS 7. Solgt i starten af 2002 til J. Holm Christensen, Fredericia. Videresolgt samme år til køber i Svendborg.  
 Side 126: MS 10. Blev sammen med MS 3 genfundet i Kiel og ikke som angivet i Flensburg.  
