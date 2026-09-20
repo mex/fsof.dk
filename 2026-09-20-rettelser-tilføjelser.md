@@ -6,7 +6,7 @@ subtitle: Flådens skibe og fartøjer
 
 
 Rettelser
-Med ++ er markeret ændringer siden seneste opdateringsliste dateret   18.01.2010
+Med ++ er markeret ændringer siden seneste opdateringsliste dateret   18.01.2010.  
 Med understregning er markeret rettelser, som udelukkende vedrører 1. oplag af bogen.
 
 
@@ -30,37 +30,36 @@ Side 46: BESKYTTEREN. De to tegninger skal byttes om.
 Side 47: BESKYTTEREN. Blev 21. november 2000 overdraget til Estland, med nyt navn ”Admiral Pitka”, pt-nr. A 230.  
 Side 50: THETIS tekst. Linie 13. 7 tallet fjernes.  
 Side 53: GLENTEN-klassen. Beklageligvis er de under kolonnen ”Søsat” angivne datoer (pånær ex. S 122, T 51, T 57 og TAARNFALKEN) forkerte, idet de angivne datoer er kommandohejs-ningsdatoerne i ”Kriegsmarine”. Ved at udnytte en desværre under udarbejdelsen af bogen upåagtet kilde, kan de rigtige datoer oplyses (og de mangelfulde suppleres). De skal være følgende: T 51 10.10.44; T 52 31.05.41; T 53 26.08.44; T 54 28.11.43; T 55 07.07.44; T 56 05.06.43; T 57 13.10.44; T 58 22.04.42; T 59 12.05.44; T 60 23.02.43; T 61 15.07.44; STORMFUGLEN  06.09.41; TAARNFALKEN 18.09.44; TRANEN  06.08.42; FALKEN 14.09.44; HEJREN 13.06.42; LOMMEN  29.09.44; VIBEN 06.11.41.  
-Side 54: Indledende afsnit. I alt otte både medvirkede ved farveforsøgene, idet hver farve blev påmalet to både.   Farvefordelingen skulle således være: Marinegrå (LOMMEN og GLENTEN); hvid (HÆRFUGLEN og RAVNEN); søgrøn (SKADEN og RÅGEN), lysblå (køkkenblå) (TAARNFALKEN og formentlig FALKEN). Den hvide farve er i øvrigt blevet beskrevet som: snavset-mat-grå-hvid.
-Side 58: (T 60). Efter salget anvendt som husbåd med navnet "Samantha". I 2001 blev skroget fundet ved en flodbred i England, og blev erhvervet i et forsøg på at redde og rekonstruere båden. Standen var dog så dårlig, at forsøget senere blev opgivet.
-Side 59: Billedtekst ved STORMFUGLEN. Båden t.h. er HAJEN.
-Side 61: VIBEN billedtekst. Det uregelmæssigt formede apparat er et som forsøg opstillet enkelt raketstyr til lysraketter.
-Side 65: GLENTEN. Skal være udgået 05.07.77 og derefter solgt til civilt brug. Menes fra 1978 og 3-4 år frem at have været anvendt til kystvagtopgaver i Chile for en privat organisation. (Oplysningerne har ikke kunnet verificeres).
-Side 69: SØULVEN. Det civile kaldesignal blev: OZHC Solgt til udlandet 1998.
-Side 76: Salgsprisen for T 4 var kr. 204.883,- og for T 19 kr. 161.383,-.
-Side 77: BILLE. Harpoon affyringen fandt ikke sted. (Oplysningen om affyringen er baseret på samtidige avisreferater, det ene endda fra et par dage efter at begivenheden skulle være sket. Muligvis har affyringen været planlagt, men blevet aflyst. Æren for den første Harpoon affyring fra en Willemoes-klasse tilfaldt i stedet WILLEMOES).
-Side 78: RODSTEEN. Iflg. "Under Dannebrog", november 1980, side 14, foregik adoptionen 30.5.80.
-Side 79: WILLEMOES. Affyrede 10.11.81 Harpoon test-missil udfor Sjællands Odde. Blev derved 1. enhed i klassen, der gennemførte en sådan skydning.
-Side 81: FLYVEFISKEN. Udgået 01.11.2004. HAJEN. Udgået 01.10.2004. VIBEN. Søsat 08.08.95. SVÆRDFISKEN. Søsat 10.11.90. Udgået 15.05.2003. (Ikke verificeret). GLENTEN søsat 14.05.92.
-Side 101: Billedet er optaget august 1951 af A. Wodschow. Båden havde da fået navnet SPRINGEREN. U.1. Admiralty Job No. J3826. Bestilt 23.08.40 under "1940 Programme". Værftets byggenr. 807. U. 2. Admiralty Job No. J4641. Bestilt 21.05.42 under "1942 Programme". Værftets byggenr. 59. (Ny kilde siger: (K: 29.10.42/F: 02.06.44)).
-Side 102; U 3. Admiralty Job No. J3234, Bestilt 21.05.42 under "1942 Programme", Værftets byggenr. 891.
-Side 103: DELFINEN. De første ringe placeredes på beddingen 10.06.54. SPRINGEREN. "Offshore Purchase for the Danish Navy under the FY60 Programme". SPRINGEREN deltog også i STANAVFORLANT oktober-december 1973 samt oktober-november 1980.
-Side 115: FALSTER. Døbt af Mrs. William W. Keller.
-Side 118: MINEBAAD NR. 4. Afleveret til Marineministeriet 02.07.1864.
-Side 119: MINEBAAD NR. 5 afleveret til Marineministeriet 06.08.1864. MINEBAAD NR. 6 afle¬veret til Marineministeriet 29.08.1864. MINEBAAD NR. 7 afleveret til Marineministeriet 29.09.1864. MINEDEPOTBAAD NR. 2. har samme data som MINEBAAD NR. 1-4 på side 118.
-Side 120: Billedteksten. Antennen er ikke en radar, men en ESM antenne af typen FuMB Ant. 4, Sumatra.
-Side 125: MS 3 og MS 7. Solgt i starten af 2002 til J. Holm Christensen, Fredericia. Videresolgt samme år til køber i Svendborg.
-Side 126: MS 10. Blev sammen med MS 3 genfundet i Kiel og ikke som angivet i Flensburg.
-Side 127: ML2/KLØRDYB. Dato for indg. i flådens tal skal være 01.11.47.
-         Armering: På apteringstegning fra dec. 1942 er angivet placementer for 20 mm RK på agterdæk og 8 mm RG på fordæk. Det vides ikke, om fartøjerne nogensinde har haft disse ombord.
-Side 128: Et af fartøjerne (formentlig ML 2) ejedes august 1984 af I.C.Christensen, Kalundborg som dykkerbåd under navnet Iben. (Antagelig kendingssignal XPB 4595). Fartøjet ejedes februar 1999 af W. Beekhuis, Holland, der var i gang med et restaureringsprojekt.
-Side 129: Note nederst. Det omtalte fartøj er MSK 2. Den var i maj 2002 annonceret til salg via annonce på internettet. Salgspris kr. 300.000. Var blevet udstyret med 1 stk. 6-cyl. Leyland dieselmotor, type 630. Ejere: J. Chakera, Kbh. og C. Strange, Birkerød.
-Side 132: ME 36 Er bygget af Rowhedge Ironworks (byggekontrakten blev overført fra Wivenhoe).
-Side 146: Øverste billede. Ny billedtekst: Inderst TRELLENÆS (af store NÆS-klasse), derefter LYNÆS og et desværre uidentificeret søsterskib (ASNÆS eller EGENÆS) ved Langelinie inden starten på øvelsestogt. Man bemærker forskellen på styrehusets udseende i de to klasser. I baggrunden BESKYTTEREN. (I.Vognsen/ 1960)
-Side 156: HAJEN. If. nye informationer er billedet er optaget 08.05.97 under sejlads fra Skagen til FLS FRH i forbindelse med trilateralt forsvarsministermøde, og altså ikke ved BLUE HARRIER.
-Side 159: VTS 1 er ex. FLS 10.
-Side 161: GRØNSUND. Udgik februar 1998.
-Side 162: GRØNSUND. Solgt til ophugning januar 2000. Ophugget i Grenaa.
-Side 164: ASVIG. Blev søsat med PT-nr. M 580 (se foto side 248). Nummeret blev ændret inden færdiggørelsen.
+Side 54: Indledende afsnit. I alt otte både medvirkede ved farveforsøgene, idet hver farve blev påmalet to både.   Farvefordelingen skulle således være: Marinegrå (LOMMEN og GLENTEN); hvid (HÆRFUGLEN og RAVNEN); søgrøn (SKADEN og RÅGEN), lysblå (køkkenblå) (TAARNFALKEN og formentlig FALKEN). Den hvide farve er i øvrigt blevet beskrevet som: snavset-mat-grå-hvid.  
+Side 58: (T 60). Efter salget anvendt som husbåd med navnet "Samantha". I 2001 blev skroget fundet ved en flodbred i England, og blev erhvervet i et forsøg på at redde og rekonstruere båden. Standen var dog så dårlig, at forsøget senere blev opgivet.  
+Side 59: Billedtekst ved STORMFUGLEN. Båden t.h. er HAJEN.  
+Side 61: VIBEN billedtekst. Det uregelmæssigt formede apparat er et som forsøg opstillet enkelt raketstyr til lysraketter.  
+Side 65: GLENTEN. Skal være udgået 05.07.77 og derefter solgt til civilt brug. Menes fra 1978 og 3-4 år frem at have været anvendt til kystvagtopgaver i Chile for en privat organisation. (Oplysningerne har ikke kunnet verificeres).  
+Side 69: SØULVEN. Det civile kaldesignal blev: OZHC Solgt til udlandet 1998.  
+Side 76: Salgsprisen for T 4 var kr. 204.883,- og for T 19 kr. 161.383,-.  
+Side 77: BILLE. Harpoon affyringen fandt ikke sted. (Oplysningen om affyringen er baseret på samtidige avisreferater, det ene endda fra et par dage efter at begivenheden skulle være sket. Muligvis har affyringen været planlagt, men blevet aflyst. Æren for den første Harpoon affyring fra en Willemoes-klasse tilfaldt i stedet WILLEMOES).  
+Side 78: RODSTEEN. Iflg. "Under Dannebrog", november 1980, side 14, foregik adoptionen 30.5.80.  
+Side 79: WILLEMOES. Affyrede 10.11.81 Harpoon test-missil udfor Sjællands Odde. Blev derved 1. enhed i klassen, der gennemførte en sådan skydning.  
+Side 81: FLYVEFISKEN. Udgået 01.11.2004. HAJEN. Udgået 01.10.2004. VIBEN. Søsat 08.08.95. SVÆRDFISKEN. Søsat 10.11.90. Udgået 15.05.2003. (Ikke verificeret). GLENTEN søsat 14.05.92.  
+Side 101: Billedet er optaget august 1951 af A. Wodschow. Båden havde da fået navnet SPRINGEREN. U.1. Admiralty Job No. J3826. Bestilt 23.08.40 under "1940 Programme". Værftets byggenr. 807. U. 2. Admiralty Job No. J4641. Bestilt 21.05.42 under "1942 Programme". Værftets byggenr. 59. (Ny kilde siger: (K: 29.10.42/F: 02.06.44)).  
+Side 102; U 3. Admiralty Job No. J3234, Bestilt 21.05.42 under "1942 Programme", Værftets byggenr. 891.  
+Side 103: DELFINEN. De første ringe placeredes på beddingen 10.06.54. SPRINGEREN. "Offshore Purchase for the Danish Navy under the FY60 Programme". SPRINGEREN deltog også i STANAVFORLANT oktober-december 1973 samt oktober-november 1980.  
+Side 115: FALSTER. Døbt af Mrs. William W. Keller.  
+Side 118: MINEBAAD NR. 4. Afleveret til Marineministeriet 02.07.1864.  
+Side 119: MINEBAAD NR. 5 afleveret til Marineministeriet 06.08.1864. MINEBAAD NR. 6 afle¬veret til Marineministeriet 29.08.1864. MINEBAAD NR. 7 afleveret til Marineministeriet 29.09.1864. MINEDEPOTBAAD NR. 2. har samme data som MINEBAAD NR. 1-4 på side 118.  
+Side 120: Billedteksten. Antennen er ikke en radar, men en ESM antenne af typen FuMB Ant. 4, Sumatra.  
+Side 125: MS 3 og MS 7. Solgt i starten af 2002 til J. Holm Christensen, Fredericia. Videresolgt samme år til køber i Svendborg.  
+Side 126: MS 10. Blev sammen med MS 3 genfundet i Kiel og ikke som angivet i Flensburg.  
+Side 127: ML2/KLØRDYB. Dato for indg. i flådens tal skal være 01.11.47. Armering: På apteringstegning fra dec. 1942 er angivet placementer for 20 mm RK på agterdæk og 8 mm RG på fordæk. Det vides ikke, om fartøjerne nogensinde har haft disse ombord.  
+Side 128: Et af fartøjerne (formentlig ML 2) ejedes august 1984 af I.C.Christensen, Kalundborg som dykkerbåd under navnet Iben. (Antagelig kendingssignal XPB 4595). Fartøjet ejedes februar 1999 af W. Beekhuis, Holland, der var i gang med et restaureringsprojekt.  
+Side 129: Note nederst. Det omtalte fartøj er MSK 2. Den var i maj 2002 annonceret til salg via annonce på internettet. Salgspris kr. 300.000. Var blevet udstyret med 1 stk. 6-cyl. Leyland dieselmotor, type 630. Ejere: J. Chakera, Kbh. og C. Strange, Birkerød.  
+Side 132: ME 36 Er bygget af Rowhedge Ironworks (byggekontrakten blev overført fra Wivenhoe).  
+Side 146: Øverste billede. Ny billedtekst: Inderst TRELLENÆS (af store NÆS-klasse), derefter LYNÆS og et desværre uidentificeret søsterskib (ASNÆS eller EGENÆS) ved Langelinie inden starten på øvelsestogt. Man bemærker forskellen på styrehusets udseende i de to klasser. I baggrunden BESKYTTEREN. (I.Vognsen/ 1960)  
+Side 156: HAJEN. If. nye informationer er billedet er optaget 08.05.97 under sejlads fra Skagen til FLS FRH i forbindelse med trilateralt forsvarsministermøde, og altså ikke ved BLUE HARRIER.  
+Side 159: VTS 1 er ex. FLS 10.  
+Side 161: GRØNSUND. Udgik februar 1998.  
+Side 162: GRØNSUND. Solgt til ophugning januar 2000. Ophugget i Grenaa.  
+Side 164: ASVIG. Blev søsat med PT-nr. M 580 (se foto side 248). Nummeret blev ændret inden færdiggørelsen.  
 Side 168: MK 3. Efter år 2000 solgt til Rederiet Saga, omdøbt til "Midas" og indsat i fart på Ringkøbing Fjord.
 Side 175: MAAGEN. Lå stadig under ombygning i marts 2000 i Svendborg, med navnet ”Maagen”, hjemsted Road Harbour.
 Side 176: BARSØ. Adopteret af Ærøskøbing 27.08.99.
