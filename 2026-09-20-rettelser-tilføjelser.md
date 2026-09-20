@@ -4,6 +4,8 @@ title: Rettelser og tilføjelser
 subtitle: Flådens skibe og fartøjer
 ---
 
+<img alt="FLÅDENS SKIBE OG FARTØJER 1945" src="https://github.com/user-attachments/assets/5cbf110c-69fb-425a-99c5-93507ed15af7" />
+
 
 Rettelser
 Med ++ er markeret ændringer siden seneste opdateringsliste dateret   18.01.2010.  
