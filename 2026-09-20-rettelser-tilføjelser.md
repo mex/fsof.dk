@@ -10,27 +10,27 @@ Med ++ er markeret ændringer siden seneste opdateringsliste dateret   18.01.201
 Med understregning er markeret rettelser, som udelukkende vedrører 1. oplag af bogen.
 
 
-Side 13: 3. afsnit, linie 3. Rear Admiral er i to ord.
-Side 21: Billedtekst THETIS. Årstal skal være 89.
-Side 23: Admiralty Job No: Trykfejl i næstsidste linie. Skal være identisk.   Til listen skal føjes: “ESM: Electronic Support Measures” og "KBF: Kystbefæstningen".
-Side 24: pp. Mere korrekt er blot at angive: Perpendikulærerne. Til listen skal føjes: "SUM: Sundets Marinedistrikt".
-Side 27: Billedtekst. Minelæggeren inderst er FYEN.
-Side 29: GODTHAAB. Indgået skal være   .06.45.
-Side 29: THETIS. Kanoner: De 2 57 mm ALK L/30 installeredes allerede 1946.
-Side 30: Teksten: De to kedler kom fra HVALEN (ikke Høgen)
-Side 31: THETIS. Billedtekst: Skal være nye kedler.
-Side 35: GALATHEA. De engelske PT-numre var hhv. L 36 og U 36.
-Side 36: ESBERN SNARE. Bestilt 20.12.39 under "1939 War Programme". Værftets byggenr. er 579.
-Side 36: ROLF KRAKE. Bestilt 20.12.39 under "1939 War Programme". Værftets byggenr. er 1595. Adoptionsåret er 1955.
-Side 37: VALDEMAR SEJR. Bestilt 20.12.39 under "1939 War Programme". Værftets byggenr. er 1593. Adopteret 07-08.05.55.
-Side 44: INGOLF. Besøgte august 1966 Chicago, USA. Besøget i Canada (Halifax) 1985 foregik 26.06.-02.07.
-Side 44: Maskineriet bestod af Pratt & Whitney gasgeneratorer og STAL LAVAL kraftturbiner
-Side 45: HERLUF TROLLE var også i STANAVFORLANT i 1971.
-Side 46: BESKYTTEREN. De to tegninger skal byttes om.
-Side 47: BESKYTTEREN. Blev 21. november 2000 overdraget til Estland, med nyt navn ”Admiral Pitka”, pt-nr. A 230.
-Side 50: THETIS tekst. Linie 13. 7 tallet fjernes.
-Side 53: GLENTEN-klassen. Beklageligvis er de under kolonnen ”Søsat” angivne datoer (pånær ex. S 122, T 51, T 57 og TAARNFALKEN) forkerte, idet de angivne datoer er kommandohejs-ningsdatoerne i ”Kriegsmarine”. Ved at udnytte en desværre under udarbejdelsen af bogen upåagtet kilde, kan de rigtige datoer oplyses (og de mangelfulde suppleres). De skal være følgende: T 51 10.10.44; T 52 31.05.41; T 53 26.08.44; T 54 28.11.43; T 55 07.07.44; T 56 05.06.43; T 57 13.10.44; T 58 22.04.42; T 59 12.05.44; T 60 23.02.43; T 61 15.07.44; STORMFUGLEN  06.09.41; TAARNFALKEN 18.09.44; TRANEN  06.08.42; FALKEN 14.09.44; HEJREN 13.06.42; LOMMEN  29.09.44; VIBEN 06.11.41.
-Side 54: Indledende afsnit. I alt otte både medvirkede ved farveforsøgene, idet hver farve blev påmalet to både. Farvefordelingen skulle således være: Marinegrå (LOMMEN og GLENTEN); hvid (HÆRFUGLEN og RAVNEN); søgrøn (SKADEN og RÅGEN), lysblå (køkkenblå) (TAARNFALKEN og formentlig FALKEN). Den hvide farve er i øvrigt blevet beskrevet som: snavset-mat-grå-hvid.
+Side 13: 3. afsnit, linie 3. Rear Admiral er i to ord.  
+Side 21: Billedtekst THETIS. Årstal skal være 89.  
+Side 23: Admiralty Job No: Trykfejl i næstsidste linie. Skal være identisk.   Til listen skal føjes: “ESM: Electronic Support Measures” og "KBF: Kystbefæstningen".  
+Side 24: pp. Mere korrekt er blot at angive: Perpendikulærerne. Til listen skal føjes: "SUM: Sundets Marinedistrikt".  
+Side 27: Billedtekst. Minelæggeren inderst er FYEN.  
+Side 29: GODTHAAB. Indgået skal være   .06.45.  
+Side 29: THETIS. Kanoner: De 2 57 mm ALK L/30 installeredes allerede 1946.  
+Side 30: Teksten: De to kedler kom fra HVALEN (ikke Høgen).  
+Side 31: THETIS. Billedtekst: Skal være nye kedler.  
+Side 35: GALATHEA. De engelske PT-numre var hhv. L 36 og U 36.  
+Side 36: ESBERN SNARE. Bestilt 20.12.39 under "1939 War Programme". Værftets byggenr. er 579.  
+Side 36: ROLF KRAKE. Bestilt 20.12.39 under "1939 War Programme". Værftets byggenr. er 1595. Adoptionsåret er 1955.  
+Side 37: VALDEMAR SEJR. Bestilt 20.12.39 under "1939 War Programme". Værftets byggenr. er 1593. Adopteret 07-08.05.55.  
+Side 44: INGOLF. Besøgte august 1966 Chicago, USA. Besøget i Canada (Halifax) 1985 foregik 26.06.-02.07.  
+Side 44: Maskineriet bestod af Pratt & Whitney gasgeneratorer og STAL LAVAL kraftturbiner.  
+Side 45: HERLUF TROLLE var også i STANAVFORLANT i 1971.  
+Side 46: BESKYTTEREN. De to tegninger skal byttes om.  
+Side 47: BESKYTTEREN. Blev 21. november 2000 overdraget til Estland, med nyt navn ”Admiral Pitka”, pt-nr. A 230.  
+Side 50: THETIS tekst. Linie 13. 7 tallet fjernes.  
+Side 53: GLENTEN-klassen. Beklageligvis er de under kolonnen ”Søsat” angivne datoer (pånær ex. S 122, T 51, T 57 og TAARNFALKEN) forkerte, idet de angivne datoer er kommandohejs-ningsdatoerne i ”Kriegsmarine”. Ved at udnytte en desværre under udarbejdelsen af bogen upåagtet kilde, kan de rigtige datoer oplyses (og de mangelfulde suppleres). De skal være følgende: T 51 10.10.44; T 52 31.05.41; T 53 26.08.44; T 54 28.11.43; T 55 07.07.44; T 56 05.06.43; T 57 13.10.44; T 58 22.04.42; T 59 12.05.44; T 60 23.02.43; T 61 15.07.44; STORMFUGLEN  06.09.41; TAARNFALKEN 18.09.44; TRANEN  06.08.42; FALKEN 14.09.44; HEJREN 13.06.42; LOMMEN  29.09.44; VIBEN 06.11.41.  
+Side 54: Indledende afsnit. I alt otte både medvirkede ved farveforsøgene, idet hver farve blev påmalet to både.   Farvefordelingen skulle således være: Marinegrå (LOMMEN og GLENTEN); hvid (HÆRFUGLEN og RAVNEN); søgrøn (SKADEN og RÅGEN), lysblå (køkkenblå) (TAARNFALKEN og formentlig FALKEN). Den hvide farve er i øvrigt blevet beskrevet som: snavset-mat-grå-hvid.
 Side 58: (T 60). Efter salget anvendt som husbåd med navnet "Samantha". I 2001 blev skroget fundet ved en flodbred i England, og blev erhvervet i et forsøg på at redde og rekonstruere båden. Standen var dog så dårlig, at forsøget senere blev opgivet.
 Side 59: Billedtekst ved STORMFUGLEN. Båden t.h. er HAJEN.
 Side 61: VIBEN billedtekst. Det uregelmæssigt formede apparat er et som forsøg opstillet enkelt raketstyr til lysraketter.
@@ -142,4 +142,4 @@ Side 315: SKA 2: 147 tilføjes. Storebælt: 160 tilføjes. Sælvig: 165 tilføje
 Side 315: Der tilføjes SV3: 236
 Side 316: Vilsund: 165 ændres til 164. Trellenæs: 146 tilføjes.
 Side 317: Y 343: 158 tilføjes. Y 361 (ex. O 122): 146 tilføjes. Y 361 (ex. P 37): 158 tilføjes. Y 393: 147 tilføjes.
-<img width="499" height="614" alt="image" src="https://github.com/user-attachments/assets/9f13d655-8c3d-4151-81a8-b0cf06bfc76b" />
+
