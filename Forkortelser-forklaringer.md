@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 title: Flådens skibe og fartøjer
 subtitle: Forkortelser/Forklaringer
 ---
