@@ -70,7 +70,7 @@ Side 180: MIDDELGRUNDEN. Årstallene 1940-45 skal være 1943-45.
 Side 180: SLEIPNER. Efter at være overtaget af tyskerne, købt af Kieler Verkehrs A.G., og benyttet som havnefærge. Senere ombygget og anvendt som bugserbåd. I 1946/47 igen anvendt som havnefærge, stadig med navnet ”Mönkeberg”.  
 Side 181: OLIETANKBÅD NR. 1. Navn bør rettelig være: OLIETANKBAAD NR. 1.   SLEIPNER. Adoptionskommunen hedder Nykøbing-Rørvig.  
 Side 182: DEN LILLE HAVFRUE/KIRSTEN PIIL. Dataafsnittet. Den indtil 1955/57 installerede maskine: DM ændres til: glødehoved motor.  
-Side 183: Begge fartøjer solgt til rederi i Nigeria i 2000. Omdøbt hhv. "Chinky Star" (RIMF) og "Betty Nelo". RIMFAXE adoptionsdagen skal være 13.09.80.  
+Side 183: Begge fartøjer solgt til rederi i Nigeria i 2000. Omdøbt hhv. "Chinky Star" (RMFX) og "Betty Nelo" (SKFX). RIMFAXE adoptionsdagen skal være 13.09.80.  
 Side 184: LVG 1. Overtaget af SVN 1984.  
 Side 185: SLEIPNER. Søsætningsdato skal være 17.01.86.  
 Side 191: HEJMDAL. Navn tildelt ved Kgl. Resolution af 30.05.34.  
