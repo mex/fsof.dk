@@ -96,8 +96,12 @@ Side 224: At tilføje: TERNAN. Færøsk rutefartøj. Lejet af Færøernes Marine
 Side 224: MOLS. Igen taget i brug af Kystbefæstningen fra 24.03.54.  
 Side 224: Nederste afsnit, første linie: fem rettes til otte.  
 Side 225: "Henny Lilian". Se K. 749 side 274.  
+Side 229: Billedtekst næstøverste billedrække:  
+I midten og t.h.:  MAS 1 Splash' sidste rejse på slæb efter en mindre kollega (MAS 4 eller 5), samt synkende efter sprængning på Arsuk fjord den 20jun1960. (J. Wethje).  
 Side 230. TERTIA. Bygget 1938.  
 Side 230: LYNETTEN I. Fik 1954 monteret ny skrue, hvorved farten hævedes til 10,2 kn.  
+Side 230 Øverste billede:  
+Fire fartøjer fra FLS GDL går deres endeligt i møde på Arsuk fjord. Tre LCM, (MAS 12, 13 og 14), hvoraf GLM 14 (MAS 14) er længst til højre, samt MAS 2 Picketbåden. Forrest i billedet ligger en af flådestationens motorbåde (MAS 4 eller 5) den 01jul1960.  (J. Wethje)
 Side 234: Linie 17 nedefra. EMMA. Overtaget 22.05.45 sammen med afmagnetiseringsanlægget på Lynetten.  
 Side 236: SV 3. Bygget i Tyskland 1938. Efter salget omdøbt "Anholteren". Ejedes fra 1976 af F. Højfeldt, Randers. Annonceret til salg i juni 1984.  
 Side 236: Foto DMH 52. Det viste fartøj er ikke DMH 52 (ex. SV 3), men er identisk med det på side 255 nederst viste L 3, også fra december 1961.  
