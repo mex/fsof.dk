@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Flådens skibe og fartøjer
-subtitle: Henrik Gerner 1927
+title: Henrik Gerner 1927
+subtitle: 
 ---
+Ikke i FSOF
 
 <img alt="FSOF HNGR 220710_000001 kopi" src="https://github.com/user-attachments/assets/a2c0c2b7-b1d0-42e5-af5d-3c6f304e2491" />
 
