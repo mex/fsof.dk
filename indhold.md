@@ -6,7 +6,7 @@ subtitle: Indhold
 
 Pre-1945  
 Depotskibe:  
-     Henrik Gerner 
+     Henrik Gerner 1927
 
 1945-1995
 
