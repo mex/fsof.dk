@@ -4,8 +4,8 @@ title: Flådens skibe og fartøjer
 subtitle: Indhold
 ---
 
-Depotskibe
-Pre-1945
+Pre-1945  
+Depotskibe  
 Henrik Gerner 
 
 1945-1995
