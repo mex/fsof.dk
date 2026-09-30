@@ -5,8 +5,8 @@ subtitle: Indhold
 ---
 
 Pre-1945  
-Depotskibe  
-Henrik Gerner 
+Depotskibe:  
+     Henrik Gerner 
 
 1945-1995
 
