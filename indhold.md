@@ -11,9 +11,9 @@ Depotskibe:
 
 1945-1995  
 Fregatter:  
-[Beskytteren 1975](/2026-09-21-beskytteren-1975/)
+[Beskytteren 1975](/2026-09-21-beskytteren-1975/)  
 Minefartøjer:
-[MRF1/MRD1-kl.](2026-09-30-MRF-MRD1.)
+[MRF1/MRD1-kl. 1990](2026-09-30-MRF-MRD1.)  
 
 
 Post-1995
