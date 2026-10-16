@@ -15,6 +15,8 @@ Fregatter:
 Undervandsbåde:  
 [U1 Springeren 1947](/2026-09-22-U1-springeren-1947/)  
 [U2 Støren-kl. 1947](/2026-09-22-U2-støren-1947/)  
+Patruljefartøjer:  
+[Flyvefisken-kl.](/2026-09-23-Flyvefisken-1986/)  
 Minefartøjer:  
 [MRF1/MRD1-kl. 1991](/2026-09-30-MRF-MRD1/)  
 
