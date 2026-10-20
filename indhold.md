@@ -19,6 +19,8 @@ Patruljefartøjer:
 [Flyvefisken-kl. 1986](/2026-09-23-Flyvefisken-1986/)  
 Minefartøjer:  
 [MRF1/MRD1-kl. 1991](/2026-09-30-MRF-MRD1/)  
+Tankfartøjer:
+[Faxe-kl. 1962](/2026-10-19-faxe-1962/)
 Torpedoindbjærgningsfartøjer:  
 [Pillau 1945](/2026-10-19-pillau-1945/)  
 
