@@ -4,7 +4,8 @@ title: Flådens skibe og fartøjer
 subtitle: Indledning
 ---
 
-Formålet med dette site er:
+**Formålet med dette site er:**
+
 
 1. At vise rettelser til bogen Flådens Skibe og Fartøjer 1945-1995 oplag 1 og 2.
 
