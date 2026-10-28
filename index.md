@@ -4,6 +4,10 @@ title: Flådens skibe og fartøjer
 subtitle: Indledning
 ---
 
+
+<img alt="Flådens Skibe og fartøjer forside 26" src="https://github.com/user-attachments/assets/c1ca9818-98fd-4c17-976a-58f6831048f0" />
+
+
 **Formålet med dette site er:**
 
 
